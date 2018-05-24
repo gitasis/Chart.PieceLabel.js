@@ -1,10 +1,10 @@
 /**
- * [Chart.PieceLabel.js]{@link https://github.com/beaver71/Chart.PieceLabel.js}
+ * [Chart.PieceLabel.js]{@link https://github.com/gitasis/Chart.PieceLabel.js}
  *
  * @version 0.9.1
  * @author Chen, Yi-Cyuan [emn178@gmail.com]
  * @copyright Chen, Yi-Cyuan 2017
- * @forkedby Beaver71 2017
+ * @forkedby gitasis 2018
  * @license MIT
  */
 (function () {
